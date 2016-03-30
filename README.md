@@ -1,4 +1,4 @@
 JW
 ==
 
-Porfolio
+Welcome!  This porfolio features concepts from Web, Database and Mobile design.
